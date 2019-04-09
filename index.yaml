@@ -1,0 +1,24 @@
+# This is the *unique* ID of your course
+url_name: advanced_skills_for_fe_developer
+display_name: Advanced Skills to Make You a Top Front End Developer
+org: EXLskills
+# This is the *unique* ID of your course (again) because we're maintaining compatibility with other course formats. If you intend to use this with OLX or another course host, then it can have another value.
+course: advanced_skills_for_fe_developer
+course_image: https://cdn-course-logos.exlskills.com/course-become-software-developer.png
+language: en
+est_minutes: 60
+primary_topic: Career
+repo_url: https://github.com/exlskills/course-become-software-developer.git
+topics:
+  - Career
+headline: Guiding your learning to become a top Front End Developer!
+description: |2
+  This is the EXLskills free and open-source course Advanced Skills to Make You a Top Front End Developer. 
+  Front End Development is becoming more and more complex and technologically challenging area. Still, the field is often thought of as a low-tech, look-and-feel focused, tedious routine coding exercise. You can't become a top Front Developer anymore if all you know is the basic syntax of HTML, CSS and JS. You must identify and learn advanced professional skills to maintain and excel your career in Front End Development
+  Read on and you'll understand what challenges a modern Front End Developer must overcome and which skills must be learned to do so successfully.
+info_md: |2
+  This is your course's long-form markdown info text. This will be shown to users in the info tab of your course.
+
+  The '2' above is to tell the YAML parser that everything that's indented by at least two characters below is part of this multi-line text.
+
+  To 'break out' of this info markdown, just add a property without indentation and you'll be dropped back into the primary YAML
