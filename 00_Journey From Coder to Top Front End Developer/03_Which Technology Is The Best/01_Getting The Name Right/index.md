@@ -1,10 +1,8 @@
-## Is Front Eend Development Even The Right Term Still
+## Is Front End Development Even The Right Name Still
 
-Consider that Back End (BE) development work existed for as long as software has
-been around (60+ years), whereas FE development work with browser-based
-technologies such as CSS and JS is considerably younger – just over 20. As
-mentioned before, since people with BE skills didn’t generally want to deal with
-the tediousness of attributes and pixels and ugliness of early JS, the FE work
+Consider that Back End (BE) development work has been around since the software profession started forming some 60+ years ago, whereas FE development for browser-based technologies such as CSS and JS is considerably younger – just over 20. As
+mentioned before, people with BE skills generally didn’t want to deal with
+the tediousness of attributes and pixels and the ugliness of early JS, so the FE work
 would be done by folks more inclined to produce visual objects than lines of dry
 code. For years, both FE and BE groups were thriving reasonably well without
 converging and even much communicating. The Full Stack (FS) developers were

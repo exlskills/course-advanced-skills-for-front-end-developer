@@ -1,9 +1,11 @@
 ## Why Browser Needs CPU
 
-The browser is a program that (1) converts HTML/CSS sent from the website into
-screen pixels (whatever the video card/screen driver need to do their work) and
-(2) runs other programs that the website submits to it in the form of JavaScript
-(JS). So, if the website pushes lots of JS code to the browser, the latter is
+The browser is a program that 
+- (1) converts HTML/CSS sent from the website into screen pixels (whatever the video card/screen driver need to do their work) and
+- (2) runs other programs that the website submits to it in the form of JavaScript
+(JS)
+
+So, if the website pushes lots of JS code to the browser, the latter is
 going to get busy cranking through the device’s resources and energy. Here comes
 a great analogy coined in the software industry between JS and environmental
 pollutants accelerating global warming.

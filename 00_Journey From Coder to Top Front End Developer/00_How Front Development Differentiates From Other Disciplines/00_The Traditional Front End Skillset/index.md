@@ -1,4 +1,4 @@
-## HTML, CSS, JavaScript, Git, React, GraphQL – Is It All That Modern Front End Development Is About?
+## HTML, CSS, JavaScript, Git, React, GraphQL – Is That What Front End Development Is About?
 
 Have you heard that Front End Development is an easy field to get into, that
 doesn’t require much knowledge of software development principles and methods? A
